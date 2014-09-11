@@ -1,0 +1,97 @@
+> summary(is.na(inTrain))
+ giver_username_if_known number_of_downvotes_of_request_at_retrieval
+ Mode :logical           Mode :logical                              
+ FALSE:4040              FALSE:4040                                 
+ NA's :0                 NA's :0                                    
+                                                                    
+ number_of_upvotes_of_request_at_retrieval post_was_edited request_id     
+ Mode :logical                             Mode :logical   Mode :logical  
+ FALSE:4040                                FALSE:4040      FALSE:4040     
+ NA's :0                                   NA's :0         NA's :0        
+                                                                          
+ request_number_of_comments_at_retrieval request_text    request_text_edit_aware
+ Mode :logical                           Mode :logical   Mode :logical          
+ FALSE:4040                              FALSE:4040      FALSE:4040             
+ NA's :0                                 NA's :0         NA's :0                
+                                                                                
+ request_title   requester_account_age_in_days_at_request
+ Mode :logical   Mode :logical                           
+ FALSE:4040      FALSE:4040                              
+ NA's :0         NA's :0                                 
+                                                         
+ requester_account_age_in_days_at_retrieval
+ Mode :logical                             
+ FALSE:4040                                
+ NA's :0                                   
+                                           
+ requester_days_since_first_post_on_raop_at_request
+ Mode :logical                                     
+ FALSE:4040                                        
+ NA's :0                                           
+                                                   
+ requester_days_since_first_post_on_raop_at_retrieval
+ Mode :logical                                       
+ FALSE:4040                                          
+ NA's :0                                             
+                                                     
+ requester_number_of_comments_at_request requester_number_of_comments_at_retrieval
+ Mode :logical                           Mode :logical                            
+ FALSE:4040                              FALSE:4040                               
+ NA's :0                                 NA's :0                                  
+                                                                                  
+ requester_number_of_comments_in_raop_at_request
+ Mode :logical                                  
+ FALSE:4040                                     
+ NA's :0                                        
+                                                
+ requester_number_of_comments_in_raop_at_retrieval
+ Mode :logical                                    
+ FALSE:4040                                       
+ NA's :0                                          
+                                                  
+ requester_number_of_posts_at_request requester_number_of_posts_at_retrieval
+ Mode :logical                        Mode :logical                         
+ FALSE:4040                           FALSE:4040                            
+ NA's :0                              NA's :0                               
+                                                                            
+ requester_number_of_posts_on_raop_at_request
+ Mode :logical                               
+ FALSE:4040                                  
+ NA's :0                                     
+                                             
+ requester_number_of_posts_on_raop_at_retrieval
+ Mode :logical                                 
+ FALSE:4040                                    
+ NA's :0                                       
+                                               
+ requester_number_of_subreddits_at_request requester_received_pizza
+ Mode :logical                             Mode :logical           
+ FALSE:4040                                FALSE:4040              
+ NA's :0                                   NA's :0                 
+                                                                   
+ requester_subreddits_at_request requester_upvotes_minus_downvotes_at_request
+ Mode :logical                   Mode :logical                               
+ FALSE:4040                      FALSE:4040                                  
+ NA's :0                         NA's :0                                     
+                                                                             
+ requester_upvotes_minus_downvotes_at_retrieval
+ Mode :logical                                 
+ FALSE:4040                                    
+ NA's :0                                       
+                                               
+ requester_upvotes_plus_downvotes_at_request
+ Mode :logical                              
+ FALSE:4040                                 
+ NA's :0                                    
+                                            
+ requester_upvotes_plus_downvotes_at_retrieval requester_user_flair
+ Mode :logical                                 Mode :logical       
+ FALSE:4040                                    FALSE:994           
+ NA's :0                                       TRUE :3046          
+                                               NA's :0             
+ requester_username unix_timestamp_of_request unix_timestamp_of_request_utc
+ Mode :logical      Mode :logical             Mode :logical                
+ FALSE:4040         FALSE:4040                FALSE:4040                   
+ NA's :0            NA's :0                   NA's :0                      
+                                                                           
+> 
